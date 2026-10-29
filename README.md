@@ -69,13 +69,13 @@ I'm AbdelDjalil Belkasmi, a 4nd-year Computer Science student and AI Developer
 
 ### 🧩 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdeldjalilBlk&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelDjalilBlk&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
 
 ---
 
 ## 🏆 Top Contributed Repo
 
-<img src="https://github-contributor-stats.vercel.app/api?username=AbdeldjalilBlk&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=AbdelDjalilBlk&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
 
 ---
 
